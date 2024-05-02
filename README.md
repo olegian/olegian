@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **any of my programming languages or projects, alongside FPGA digital design.**
 
-- 📫 How to reach me **oleg.ianch@gmail.com**
+- 📫 Reach me at **oleg.ianch@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
